@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haziq Nalpon</h1>
 <h3 align="center">Computer Science Student in Singapore</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZrdmprMHhpemU3bHYwaXc2ajdhODNnbG01N3MyZ2d4bjRva2ZoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
