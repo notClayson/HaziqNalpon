@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZrdmprMHhpemU3bHYwaXc2ajdhODNnbG01N3MyZ2d4bjRva2ZoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
